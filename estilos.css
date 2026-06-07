@@ -1,0 +1,24 @@
+/*--Cabecera-logo-Título--*/
+.header {
+  display:flex;
+  justify-content:space-between;
+  align-items: center;
+  text-align: center;
+  background:rgb(3, 3, 102);
+  color:White;
+  padding:0px;
+  width:100%;
+}
+
+.logo{   
+  width:auto; /*29.165% */
+  height:100px;
+  border-radius: 50%;
+}
+
+#titulo{
+  font-size:auto;
+  font-family:Arial;
+  font-weight:bold;
+  width:50%;
+}
