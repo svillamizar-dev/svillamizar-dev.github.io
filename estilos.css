@@ -7,7 +7,17 @@ body {
 
 /* Para Computador: */
 @media only screen and (min-width: 800px) {
-  
+  #titulo{
+    font-size:21px;
+    font-family: Arial;
+    font-weight: bold;
+    width:50%;
+  }
+
+  .logo{   
+    width:25%;
+    height:110px;
+  }
   
 }
 
